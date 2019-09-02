@@ -1,1 +1,2 @@
-# doc
+# Dozer 
+Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. Typically, these Java Beans will be of different complex types.[官网地址](http://dozer.sourceforge.net/)
