@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##学习工具
 - [git地址](https://github.com/DozerMapper/dozer) Dozer 映射的框架
 - [git地址](https://github.com/LMAX-Exchange/disruptor) Disruptor 高性能异步处理框架
@@ -8,3 +9,7 @@
 - [git地址](https://github.com/sony/sonyflake) Snowflake go语言实现
 - [git地址](https://github.com/p6spy/p6spy) p6spy 输出、打印sql
 - [git地址](https://mp.baomidou.com/) MyBatis-Plus
+=======
+##学习
+### Dozer [官网地址](https://dozermapper.github.io/) [git地址] (https://github.com/DozerMapper/dozer)
+>>>>>>> 20244d3fda5ec89782716b4cd58c75bc48a460e7
