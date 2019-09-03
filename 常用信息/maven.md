@@ -25,4 +25,3 @@ mvn -X compile dependency:tree -Dverbose >d:\\aa.log     搜索 omitted for conf
 ````
 mvn clean package -Dmaven.test.skip=true
 ````
-常用信息
